@@ -1,9 +1,13 @@
 # Proyecto: Mostrar Factura
----
+
 ### Descripción:
  Este proyecto se encarga de calcular el subtotal del cliente ingresado por 
  el usuario y lo va a multiplica por 18% de itibs y si el cliente es 
  frecuente se le resta el 10% de descuento y le muestra la factura en pantalla.
+
+
+ ### Descripción:
+ Este proyecto se encarga de calcular el subtotal del cliente, ingresado por el usuario y lo va a multiplica por 18% de itibs y si el cliente es, frecuente se le resta el 10% de descuento y le muestra la factura en pantalla.
 --
 ## Analisis:
 
