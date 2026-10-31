@@ -17,12 +17,13 @@ frecuente se le resta el 10% de descuento y le muestra la factura en pantalla.
 ---
 
 ### Procesamiento:
-subtotal= (subtotal*0.18 itbis) - 10% descuento.
+#### subtotal= (subtotal*0.18 itbis) - 10% descuento.
 ---
 ### Salida
-Salida = Nombre de cliente y Total a pagar.
+#### Salida = Nombre de cliente y Total a pagar.
 ---
 ## Tenologia utilizadas:
+
 #### - C#
 ---
 #### - .Net
@@ -34,3 +35,6 @@ Salida = Nombre de cliente y Total a pagar.
 ## Capturas de los resultados:
 
 <img width="289" height="182" alt="image" src="https://github.com/user-attachments/assets/4355534c-8f8f-4699-a09e-ca9b0c01e0da" />
+
+
+
