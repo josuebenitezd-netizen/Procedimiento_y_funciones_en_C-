@@ -24,13 +24,13 @@ frecuente se le resta el 10% de descuento y le muestra la factura en pantalla.
 ---
 ## Tenologia utilizadas:
 
-#### - C#
----
-#### - .Net
----
-#### - Visual studio comiunity
----
-#### - Aplicación de consola
+ - C#
+
+ - .Net
+
+ - Visual studio comiunity
+
+ - Aplicación de consola
 
 ## Capturas de los resultados:
 
