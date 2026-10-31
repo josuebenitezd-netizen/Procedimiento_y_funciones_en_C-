@@ -37,3 +37,6 @@ Este proyecto se encarga de calcular el total de la factura de un cliente. El pr
 ## Capturas de los resultados
 
 <img width="289" height="182" alt="Resultado de la factura" src="https://github.com/user-attachments/assets/4355534c-8f8f-4699-a09e-ca9b0c01e0da" />
+
+<img width="290" height="168" alt="image" src="https://github.com/user-attachments/assets/79ef1707-91f7-44c9-8632-0923bbe634c6" />
+
