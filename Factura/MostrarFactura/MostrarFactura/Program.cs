@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -6,16 +6,16 @@ class Program
     {
         decimal itibs = 0.18m;
         decimal descuento = 0.10m;
-
-        subtotal = (subtotal * itibs);
+        decimal total;
+        total = subtotal + (subtotal * itibs);
 
         if (esfrecuente == true)
         {
-            subtotal = subtotal - descuento;
+            total = total - (subtotal * descuento);
         }
 
 
-        return subtotal;
+        return total;
     }
 
     static void mostrarfactura(string clientes, decimal total)
