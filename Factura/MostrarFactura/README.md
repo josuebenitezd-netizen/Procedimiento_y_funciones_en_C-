@@ -16,7 +16,7 @@
 #### (subtotal * itibs) - descuento
 ---
 ### Salida
-#### Salida = Nombre de cliente y Total a pagar.
+#### Nombre de cliente y Total a pagar.
 ---
 ## Tenologia utilizadas:
 
