@@ -1,32 +1,34 @@
 # Proyecto: Mostrar Factura
---
+---
 ### Descripción:
+
+---
 #### Este proyecto se encarga de calcular el subtotal del cliente ingresado por 
 el usuario y lo va a multiplica por 18% de itibs y si el cliente es 
 frecuente se le resta el 10% de descuento y le muestra la factura en pantalla.
 --
 ## Analisis:
 
---
-##### Entrada:
+---
+### Entrada:
 - `Subtotal` = valor,
 - `Frecuente` = valor,
 -  `Cliente` = valor.
---
+---
 
-#### Procesamiento:
+### Procesamiento:
 subtotal= (subtotal*0.18 itbis) - 10% descuento.
---
-#### Salida
+---
+### Salida
 Salida = Nombre de cliente y Total a pagar.
---
+---
 ## Tenologia utilizadas:
 #### - C#
---
+---
 #### - .Net
---
+---
 #### - Visual studio comiunity
---
+---
 #### - Aplicación de consola
 
 ## Capturas de los resultados:
