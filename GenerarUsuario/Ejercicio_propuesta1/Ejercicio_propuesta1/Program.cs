@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 
 class Program
@@ -17,25 +17,18 @@ class Program
 
         return usuario;
     }
-
     static bool validar(string clave, string Usuario)
     {
         string Contraseña = clave;
 
-        return Contraseña.Length >= 8 && !clave.Contains(Usuario) && !clave.Substring(0, Usuario.Length).Equals(Usuario);
+        return Contraseña.Length >= 8 && !Contraseña.ToLower().Contains(Usuario.ToLower());
 
     }
-
-
     static void mostrarCuenta(string cuenta, bool validar)
     {
         Console.WriteLine($"Usuario: {cuenta}");
         Console.WriteLine($"Clave Válida: {validar}");
     }
-
-
-
-
     static void Main(string[] args)
     {
         Console.WriteLine("Crear un Usuario y Validar la clave");
@@ -45,7 +38,6 @@ class Program
         Console.Write("Ingresar Usuario: ");
 
         string usuario = Console.ReadLine();
-
 
         Console.WriteLine();
 
